@@ -14,9 +14,9 @@ My current work examines how electoral rules and norms (1) influence political d
 
 ### Book Chapters 
 
-"The Nationalization of Congressional Elections" *with Jamie L. Carson and Jason M. Roberts* in *New Directions in Congressional Politics,* 2nd Edition: Routledge.
+"The Nationalization of Congressional Elections" *with Jamie L. Carson and Jason M. Roberts* in [*New Directions in Congressional Politics,*](https://www.routledge.com/New-Directions-in-Congressional-Politics/Carson-Lynch/p/book/9780367466541) 2nd Edition: Routledge.
 
-"Irregular Order: Examining the Changing Congressional Amending Process" *with Michael S. Lynch and Anthony J. Madonna* in *Party and Procedure in the United States Congress,* 2nd Edition: Rowland and Little.
+"Irregular Order: Examining the Changing Congressional Amending Process" *with Michael S. Lynch and Anthony J. Madonna* in [*Party and Procedure in the United States Congress,*](https://rowman.com/ISBN/9781442258747/Party-and-Procedure-in-the-United-States-Congress-Second-Edition) 2nd Edition: Rowland and Little.
 
 ### Working Papers
 
