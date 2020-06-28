@@ -23,7 +23,7 @@ To make my expertise more accessible outside the traditional classroom setting, 
         [Presidency](/files/Presidency.pdf); [Congressional Polarization](/files/Polarization.pdf)
 
 ### Odum Institute for Research in Social Sciences at UNC
-- Collecting and Analysing Text Using R
+- Collecting and Analysing Text Using R (Spring 2019; Fall 2019; Spring 2020; Fall 2020)
     - This workshop will introduce participants to the basics of text analysis in R. Text analysis is a promising new approach that uses machine learning to discover patterns, trends, and other information by using text as data. For example, in measuring misinformation on social media to study how candidates have changed their campaign rhetoric over time, text analysis has an incredibly broad scope of applications. In this two day, five hour course, participants will develop the skills and understanding necessary to collect text data from a variety of sources, including websites and APIs. Participants will gain practical skills for completing their own analyses using text as data. Basic to intermediate knowledge of programming in R is required; no background in statistics is necessary.
     - [Text Collecting and Processing](/files/Text_Analysis_Day1.pdf)
     - [Sentiment Analysis](/files/Text_Analysis_Day2.pdf)
