@@ -11,4 +11,4 @@ redirect_from:
 
 <iframe src="/files/porter_cv.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-You can download a PDF copy of my CV [here](/files/porter_cv.pdf).
+You can download a PDF copy of my CV [here](/files/porter_cv_08.20.pdf).
