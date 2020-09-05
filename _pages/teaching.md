@@ -3,7 +3,7 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-I have honed my teaching style and skills over the span of seven semesters at UNC, both as the instructor-of-record and teaching assistant. During this time, I have designed two of my own courses, worked with students in small-class settings, and directed my own teaching assistants. For my work as an instructor, I was recognized by the UNC Political Science Department with the Earle Wallace Award for Graduate Student Teaching.
+I have honed my teaching style and skills over the span of seven semesters at UNC, both as an instructor-of-record and teaching assistant. During this time, I have designed two of my own courses, worked with students in small-class settings, and directed my own teaching assistants. For my work as an instructor, I was recognized by the UNC Political Science Department with the Earle Wallace Award for Graduate Student Teaching.
 
 To make my expertise more accessible outside the traditional classroom setting, I teach a two-day seminar through the Odum Institute for Research in Social Science at UNC-Chapel Hill on collecting and analyzing text data in R. I make all my class materials publicly available on [GitHub](https://github.com/porter-rachel/odum_text_fall_2019/tree/master/Dropbox/Rachel/Text_Class). These experiences have prepared me to offer courses in American politics and political methodology at both the undergraduate and graduate levels.
 
