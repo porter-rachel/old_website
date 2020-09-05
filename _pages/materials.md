@@ -1,5 +1,5 @@
 ---
-permalink: /application_materials/
+permalink: /job_materials/
 title: "Job Market Materials"
 ---
 
