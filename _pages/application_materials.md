@@ -9,4 +9,4 @@ Please find application materials, including a research statement, CV, teaching 
 
 ### [Research Statement](/files/porter_research_statement.pdf)
 My research employs advanced quantitative methods and original data collections to offer new perspectives on established theories about American political institutions. In single-authored and collaborative work, I explore candidate emergence, success, and campaign behavior in congressional elections. My dissertation extends this research agenda by assessing whether candidates still run on locally-oriented issues in today's ``nationalized" campaign environment. Most recently, I have taken an interest in understanding how shifts in electoral trends impact legislative outcomes.
-        
+
