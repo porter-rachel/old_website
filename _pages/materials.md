@@ -16,6 +16,8 @@ In my approach to teaching, I challenge students to evaluate the way they think 
 - [Summary Teaching Evaluations](/files/teaching_evaluation_summary.pdf)
     - *Course Evaluations as Instructor of Record:* Data in Politics I ([Spring 2020](/files/porter_281_SP20.pdf), [Fall 2019](/files/porter_281_FA19.pdf)) Introduction to American Politics ([Spring 2019](/files/porter_100_SP19.pdf))
     - *Course Evaluations as Teaching Assistant:* Introduction to American Politics ([Spring 2018](/files/porter_100_SP18.pdf), [Fall 2017](/files/porter_100_FA17.pdf)) Introduction to Comparative Politics ([Fall 2018](/files/porter_130_FA18.pdf))
+    
+### [Curriculum Vitae](/files/porter_cv.pdf)
 
 ### [Writing Sample: Estiming the Ideology of Primary Electorates (single-authored)](/files/estimating_ideology.pdf)
 
