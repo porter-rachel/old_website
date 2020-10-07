@@ -19,6 +19,8 @@ In my approach to teaching, I challenge students to evaluate the way they think 
     
 ### [Curriculum Vitae](/files/porter_cv.pdf)
 
+### [Diversity Statement](/files/diversity_statement.pdf)
+
 ### [Writing Sample: Estiming the Ideology of Primary Electorates (single-authored)](/files/estimating_ideology.pdf)
 
 >In my first dissertation chapter, I investigate how increasingly safe congressional districts impact elite behavior. In 1970, over 40 percent of districts were considered competitive; in 2018, a paltry 10 percent fell into this category. Today, for those many politicians who run in districts safe for their own party, winning the primary may be the only obstacle to attaining office. Pleasing ideologically-extreme primary voters, then, becomes of the highest importance. Consequently, I posit that increasingly safe districts are partially to blame for our state of nationalized politics. To test this theory, I couple a technique called multilevel regression with synthetic poststratification (MrsP) with the validated voter information for 2.7 million primary election voters to create a direct measure for partisan primary constituency ideology at the congressional district-level. Using my new measure, I show that incumbents are less representative of same-party primary voter preferences when the general election is competitive for both parties. These results emphasize the important role that primaries play in motivating candidate behavior in modern elections. An earlier draft of this chapter was presented at several conferences, including the Society for Political Methodology's annual meeting, and is currently under review. 
