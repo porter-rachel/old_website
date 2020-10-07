@@ -17,3 +17,4 @@ In my approach to teaching, I challenge students to evaluate the way they think 
     - *Course Evaluations as Instructor of Record:* Data in Politics I ([Spring 2020](/files/porter_281_SP20.pdf), [Fall 2019](/files/porter_281_FA19.pdf)) Introduction to American Politics ([Spring 2019](/files/porter_100_SP19.pdf))
     - *Course Evaluations as Teaching Assistant:* Introduction to American Politics ([Spring 2018](/files/porter_281_FA19.pdf), [Fall 2017](/files/porter_100_FA17.pdf)) Introduction to Comparative Politics ([Fall 2018](/files/porter_100_SP19.pdf))
     
+### [Diversity Statement](/files/diversity_statement.pdf)
