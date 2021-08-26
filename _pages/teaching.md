@@ -10,7 +10,7 @@ To make my expertise more accessible outside the traditional classroom setting, 
 [Extended Teaching Portfolio](/files/porter_teaching_portfolio_add.pdf)
 
 ### The University of North Carolina at Chapel Hill
-- Poli 281: Quantitative Research in Political Science (Fall 2019; Spring 2020; Fall 2020)
+- Poli 281: Quantitative Research in Political Science (Fall 2019; Spring 2020; Fall 2020, Summer Session 2021)
     -  The course is target towards undergraduate students with interest in the social sciences, who want to use quantitative approaches to solve important problems as well as develop marketable analytical skills. This course is designed to achieve three objectives: (1) introduce students to research and quantitative analysis in political science, (2) produce critical consumers of quantitative analysis used in political and policy-oriented reporting, and (3) give students the ability to answer questions of social scientific importance using data. Over the course of the semester, students learn and become proficient in the statistical programming language R. 
     - [Syllabus](/files/POLI281_Syllabus_copy.pdf)
     - [Example Slides](/files/RegressionPart1.pdf)
@@ -24,7 +24,7 @@ To make my expertise more accessible outside the traditional classroom setting, 
         [Presidency](/files/Presidency.pdf); [Congressional Polarization](/files/Polarization.pdf)
 
 ### Odum Institute for Research in Social Sciences at UNC
-- Collecting and Analysing Text Using R (Spring 2019; Fall 2019; Spring 2020; Fall 2020)
+- Collecting and Analysing Text Using R (Spring 2019; Fall 2019; Spring 2020; Fall 2020, Spring 2021)
     - This workshop will introduce participants to the basics of text analysis in R. Text analysis is a promising new approach that uses machine learning to discover patterns, trends, and other information by using text as data. For example, in measuring misinformation on social media to study how candidates have changed their campaign rhetoric over time, text analysis has an incredibly broad scope of applications. In this two day, five hour course, participants will develop the skills and understanding necessary to collect text data from a variety of sources, including websites and APIs. Participants will gain practical skills for completing their own analyses using text as data. Basic to intermediate knowledge of programming in R is required; no background in statistics is necessary.
     - [Text Collecting and Processing](/files/Text_Analysis_Day1.pdf)
     - [Sentiment Analysis](/files/Text_Analysis_Day2.pdf)
