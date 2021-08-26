@@ -8,7 +8,7 @@ My current work examines how electoral rules and norms (1) influence political d
 
 ### Publications
 
-"No Experience Required: Early Donations and Amateur Candidate Success in Primary Elections." *with Tyler Steelman.* Conditionally Accepted at Legislative Studies Quarterly. [[Paper]](/files/early_money.pdf)
+"No Experience Required: Early Donations and Amateur Candidate Success in Primary Elections." *with Tyler Steelman.* Conditionally Accepted at Legislative Studies Quarterly. [[Paper]](/files/early_money_draft.pdf)
 
 >The electoral dominance of "quality candidates"---political insiders with past electoral experience---is well-established. However, research on the recent rise in successful political neophytes is less studied. Despite longstanding trends in the predominance of experienced candidates in primary elections, nearly half of all quality candidates who ran in non-incumbent races lost to a candidate without prior electoral experience in 2018. In this article, we investigate the success of political newcomers by examining a topic often overlooked in the growing literature on primaries: campaign finance. We show that political newcomers are most successful when they collect early money from outside their congressional district. Further, we find cursory evidence that out- of-district donors look to amateurs as “surrogate representatives” for their values and interests in Congress. We demonstrate that forces outside a candidate’s own district play a much greater role in explaining the dynamics of congressional primary elections than previously thought.
 
