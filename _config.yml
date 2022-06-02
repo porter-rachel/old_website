@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rachel Porter"
 title_separator          : "-"
 name                     : &name "Rachel Porter"
-description              : &description "PhD Candidate in Political Science"
+description              : &description "Assistant Professor, University of Notre Dame"
 url                      : https://rachelporter.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "porter-rachel.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Rachel Porter"
   avatar           : "japan.jpeg"
-  bio              : "PhD Candidate, University of North Carolina"
-  location         : "Chapel Hill, NC"
+  bio              : "Assistant Professor, University of Notre Dame"
+  location         : "South Bend, IN"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=CuQqTt4AAAAJ"
-  email            : "rachsur@live.unc.edu"
+  email            : "rachel.porter@nd.edu"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
