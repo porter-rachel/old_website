@@ -8,7 +8,7 @@ My current work examines how electoral rules and norms (1) influence political d
 
 ### Publications
 
-"Descriptive Candidacies & Position-Taking in Campaigns for the U.S. House of Representatives" *with Sarah A. Treul and Maura McDonald.* Accepted at The Journal of Politics.[[Paper]](/files/dialouge_accepted.pdf)
+"Descriptive Candidacies & Position-Taking in Campaigns for the U.S. House of Representatives" *with Sarah A. Treul and Maura McDonald.* Accepted at The Journal of Politics.[[Paper]](/files/dialogue_accepted.pdf)
 
 > Although the consequences of electing descriptively unique candidates to Congress have been well-explored, scant attention has been paid to the impacts that descriptive candidacies have on campaigns and elections. Employing comprehensive text data on the campaign platforms for U.S. House of Representatives candidates from 2018, we seek to determine if and how a candidate's descriptive identity impacts the kinds of issues adopted by her primary election opponents. We find that Democratic male, Democratic white, and Republican civilian candidates are significantly more likely to take up women, veteran, and Black-associated issues when a candidate who possess this identity runs in their primary. In a content analysis using text-as-data, we show that identity-holders and candidates who do not share this identity are remarkably consistent in how they talk about issues of interest. Finally, in our comparison of primary and general election platform text, we demonstrate that this website content remains largely unchanged over the course of elections. Our findings indicate that position taking in the primary will have long-term consequences on campaign strategy. 
 
