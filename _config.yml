@@ -74,8 +74,7 @@ social:
 # Analytics
 analytics:
   provider               :  "custom"
-  google:
-    tracking_id          : "G-GEN6BYGKF2"
+  
 
 
 # Site Author
