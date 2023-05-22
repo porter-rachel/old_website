@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am an Assistant Professor of Political Science at the [University of Notre Dame](https://politicalscience.nd.edu/) and faculty affiliate with the [Lucy Family Institute for Data and Society](https://lucyinstitute.nd.edu/). My research primarily focuses on American politics, with a particular interest in how electoral institutions influence policymaking. 
+Welcome! I am an Assistant Professor of Political Science at the [University of Notre Dame](https://politicalscience.nd.edu/) and faculty affiliate with the [Lucy Family Institute for Data and Society](https://lucyinstitute.nd.edu/). My research primarily focuses on American politics, with a particular interest in how electoral institutions influence strategic campaign position taking and congressional policymaking. 
 
 My research employing a new collection of text data on candidates' issue positions in congressional primary elections is forthcoming in *The Journal of Politics*. I am currently producing a co-authored book manuscript that investigates the growing success of political amateurs at winning seats in Congress. 
 
