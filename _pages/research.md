@@ -14,13 +14,13 @@ author_profile: true
 
 ### Working Papers
 
-"Evaluating (In)Experience in Congressional Elections" *with Sarah A. Treul.* Invited to Revise and Resubmit at the American Journal of Political Science. [[Working Paper]](/files/inexperience.pdf)
+"Evaluating (In)Experience in Congressional Elections" *with Sarah A. Treul.* Invited to Revise and Resubmit at the American Journal of Political Science. [[Paper]](/files/inexperience.pdf)
 
-"Conceptualizing and Measuring Early Campaign Fundraising in Congressional Elections" *with Colin R. Case.* Under Review. [[Working Paper]](/files/case_porter_money.pdf)
+"Conceptualizing and Measuring Early Campaign Fundraising in Congressional Elections" *with Colin R. Case.* Under Review. [[Paper]](/files/case_porter_money.pdf)
 
-"Policy Facts or Partisan Friction?: Explaining Political Communication on America's Opioid Epidemic" [[Working Paper]](/files/porter_opioids.pdf)
+"Policy Facts or Partisan Friction?: Explaining Political Communication on America's Opioid Epidemic" [[Paper]](/files/porter_opioids.pdf)
 
-"Estimating the Ideological Extremity of Primary Electorates." Under Review. [[Working Paper]](/files/estimating_ideology.pdf), [[Supplemental Information]](/files/primaries_appendix.pdf)
+"Estimating the Ideological Extremity of Primary Electorates." [[Paper]](/files/estimating_ideology.pdf), [[Supplemental Information]](/files/primaries_appendix.pdf)
 
 ### Book Chapters 
 
