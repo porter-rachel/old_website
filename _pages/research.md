@@ -4,19 +4,19 @@ permalink: /research/
 author_profile: true
 ---
 
-My current work examines how electoral rules and norms (1) influence political discussion, and (2) impact who is successful at winning a seat in Congress. To answer these complex questions, I pair new data on congressional primaries with cutting-edge methodological techniques like text analysis, matching, regression discontinuity, and machine learning. 
+### Peer-Reviewed Publications
 
-### Publications
+"Descriptive Candidacies & Position-Taking in Campaigns for the U.S. House of Representatives" *with Sarah A. Treul and Maura McDonald.* Forthcoming at The Journal of Politics.[[Paper]](/files/dialogue_accepted.pdf)
 
-"Descriptive Candidacies & Position-Taking in Campaigns for the U.S. House of Representatives" *with Sarah A. Treul and Maura McDonald.* Accepted at The Journal of Politics.[[Paper]](/files/dialogue_accepted.pdf)
+"No Experience Required: Early Donations and Amateur Candidate Success in Primary Elections." *with Tyler Steelman.* (2023). Legislative Studies Quarterly, 48(2): 455-466 [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/lsq.12396)
 
-"No Experience Required: Early Donations and Amateur Candidate Success in Primary Elections." *with Tyler Steelman.* Forthcoming at Legislative Studies Quarterly. [[Paper]](/files/early_money_draft.pdf)
-
-"Running as a Woman?: Candidate Presentation in the 2018 Midterms" *with Maura McDonald and Sarah Treul.* (2020) Political Research Quarterly, 73(4): 967-987 [[Paper]](/files/women_final.pdf) [[Supplemental Information]](/files/women_appendix.pdf)
+"Running as a Woman?: Candidate Presentation in the 2018 Midterms" *with Maura McDonald and Sarah Treul.* (2020). Political Research Quarterly, 73(4): 967-987 [[Paper]](/files/women_final.pdf) [[Supplemental Information]](/files/women_appendix.pdf)
 
 ### Working Papers
 
-"Evaluating (In)Experience in Congressional Elections" *with Sarah A. Treul.* Under Review. [[Working Paper]](/files/inexperience.pdf)
+"Evaluating (In)Experience in Congressional Elections" *with Sarah A. Treul.* Invited to Revise and Resubmit at the American Journal of Political Science. [[Working Paper]](/files/inexperience.pdf)
+
+"Conceptualizing and Measuring Early Campaign Fundraising in Congressional Elections" *with Colin R. Case.* Under Review. [[Working Paper]](/files/case_porter_money.pdf)
 
 "Policy Facts or Partisan Friction?: Explaining Political Communication on America's Opioid Epidemic" [[Working Paper]](/files/porter_opioids.pdf)
 
