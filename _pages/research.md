@@ -10,6 +10,8 @@ author_profile: true
 
 "No Experience Required: Early Donations and Amateur Candidate Success in Primary Elections." *with Tyler Steelman.* (2023). Legislative Studies Quarterly, 48(2): 455-466 [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/lsq.12396)
 
+"The Junior Americanist Workshop Series (JAWS)." *with Christina Ladam, Austin Bussing, Alexander C. Furnas, Josh McCrain, and David R. Miller.* (2023). PS: Political Science \& Politics, 55(3): 552-553 [[Paper]]([https://onlinelibrary.wiley.com/doi/abs/10.1111/lsq.12396](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/abs/junior-americanist-workshop-series/AF82CC9999307B6309D6754B191628A5))
+
 "Running as a Woman?: Candidate Presentation in the 2018 Midterms" *with Maura McDonald and Sarah Treul.* (2020). Political Research Quarterly, 73(4): 967-987 [[Paper]](/files/women_final.pdf) [[Supplemental Information]](/files/women_appendix.pdf)
 
 ### Working Papers
