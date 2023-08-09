@@ -16,16 +16,16 @@ author_profile: true
 
 ### Working Papers
 
-- "Evaluating (In)Experience in Congressional Elections" *with Sarah A. Treul.* Invited to Revise and Resubmit at the **American Journal of Political Science.** [[Paper]](/files/inexperience.pdf)
+- "Evaluating (In)Experience in Congressional Elections" *with Sarah A. Treul.* Invited to Revise and Resubmit at the **American Journal of Political Science.** [[Paper]](/files/inexp_ajps_rr.pdf)
 
-"Conceptualizing and Measuring Early Campaign Fundraising in Congressional Elections" *with Colin R. Case.* Under Review. [[Paper]](/files/case_porter_money.pdf)
+- "Conceptualizing and Measuring Early Campaign Fundraising in Congressional Elections" *with Colin R. Case.* Under Review. [[Paper]](/files/case_porter_money.pdf)
 
-"Policy Facts or Partisan Friction?: Explaining Political Communication on America's Opioid Epidemic" [[Paper]](/files/porter_opioids.pdf)
+- "Policy Facts or Partisan Friction?: Explaining Political Communication on America's Opioid Epidemic" [[Paper]](/files/porter_opioids.pdf)
 
-"Estimating the Ideological Extremity of Primary Electorates." [[Paper]](/files/estimating_ideology.pdf), [[Supplemental Information]](/files/primaries_appendix.pdf)
+- "Estimating the Ideological Extremity of Primary Electorates." [[Paper]](/files/estimating_ideology.pdf), [[Supplemental Information]](/files/primaries_appendix.pdf)
 
 ### Book Chapters 
 
-"The Nationalization of Congressional Elections" *with Jamie L. Carson and Jason M. Roberts* in [*New Directions in Congressional Politics,*](https://www.routledge.com/New-Directions-in-Congressional-Politics/Carson-Lynch/p/book/9780367466541) 2nd Edition: Routledge.
+- "The Nationalization of Congressional Elections" *with Jamie L. Carson and Jason M. Roberts* in [*New Directions in Congressional Politics,*](https://www.routledge.com/New-Directions-in-Congressional-Politics/Carson-Lynch/p/book/9780367466541) 2nd Edition: Routledge.
 
-"Irregular Order: Examining the Changing Congressional Amending Process" *with Michael S. Lynch and Anthony J. Madonna* in [*Party and Procedure in the United States Congress,*](https://rowman.com/ISBN/9781442258747/Party-and-Procedure-in-the-United-States-Congress-Second-Edition) 2nd Edition: Rowland and Little.
+- "Irregular Order: Examining the Changing Congressional Amending Process" *with Michael S. Lynch and Anthony J. Madonna* in [*Party and Procedure in the United States Congress,*](https://rowman.com/ISBN/9781442258747/Party-and-Procedure-in-the-United-States-Congress-Second-Edition) 2nd Edition: Rowland and Little.
