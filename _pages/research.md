@@ -12,7 +12,7 @@ author_profile: true
 
 - Christina Ladam, Austin Bussing, Alexander C. Furnas, Josh McCrain, David R. Miller, and **Rachel Porter**. 2023. "The Junior Americanist Workshop Series (JAWS)." _PS: Political Science \& Politics_, 55(3): 552-553 [[Paper]](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/abs/junior-americanist-workshop-series/AF82CC9999307B6309D6754B191628A5)
 
-- "Running as a Woman?: Candidate Presentation in the 2018 Midterms" *with Maura McDonald and Sarah Treul.* (2020). Political Research Quarterly, 73(4): 967-987 [[Paper]](https://journals.sagepub.com/doi/full/10.1177/1065912920915787)
+- Maura McDonald, **Rachel Porter**, and Sarah A. Treul. 2020. "Running as a Woman?: Candidate Presentation in the 2018 Midterms" _Political Research Quarterly_, 73(4): 967-987 [[Paper]](https://journals.sagepub.com/doi/full/10.1177/1065912920915787)
 
 ### Working Papers
 
