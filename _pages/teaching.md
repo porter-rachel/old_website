@@ -3,28 +3,23 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-I have honed my teaching style and skills over the span of seven semesters at UNC, both as an instructor-of-record and teaching assistant. During this time, I have designed two of my own courses, worked with students in small-class settings, and directed my own teaching assistants. For my work as an instructor, I was recognized by the UNC Political Science Department with the Earle Wallace Award for Graduate Student Teaching.
+I have honed my teaching style and skills over the span of ten semesters, both as an instructor and teaching assistant. I have worked with students in small-class settings, directed my own teaching assistants, and designed curriculum materials that cater to diverse learning styles and abilities.For my work as an instructor, I was recognized by the UNC Political Science Department with the Earle Wallace Award for Graduate Student Teaching.
 
-To make my expertise more accessible outside the traditional classroom setting, I teach a two-day seminar through the Odum Institute for Research in Social Science at UNC-Chapel Hill on collecting and analyzing text data in R. I make all my class materials publicly available on [GitHub](https://github.com/porter-rachel/odum_text_fall_2019/tree/master/Dropbox/Rachel/Text_Class). These experiences have prepared me to offer courses in American politics and political methodology at both the undergraduate and graduate levels.
+### The University of Notre Dame
 
-[Extended Teaching Portfolio](/files/porter_teaching_portfolio_add.pdf)
+- POLS 40811: Quantitative Political Analysis using R (Spring 2022)
+    - This course is designed to achieve three objectives: (1) introduce you to research and quantitative analysis in political science, (2) help you become critical consumers of quantitative analysis used in political and policy-oriented reporting, and (3) give you the ability to answer questions of social scientific importance using data. Throughout the course, we’ll discuss the complexities of generating good research designs, starting with how to ask interesting questions and how to measure concepts of interest to social scientists. We’ll discuss the challenges and limitations of gathering good data to test these theories as well as various statistical tools that can be used to evaluate our theories. Throughout the course, we’ll use what we’ve learned to think critically about the use and abuse of data by analysts, reporters, politicians, and policy advocates. As such, not only will you be learning to do your own analysis this semester, but also learning to evaluate such information when it’s presented in the media.
+    - - [Syllabus](/files/POLI281_Syllabus_copy.pdf)
 
 ### The University of North Carolina at Chapel Hill
-- Poli 281: Quantitative Research in Political Science (Fall 2019; Spring 2020; Fall 2020, Summer Session 2021)
+- POLI 281: Data in Politics (Fall 2019; Spring 2020; Fall 2020, Summer Session 2021)
     -  The course is target towards undergraduate students with interest in the social sciences, who want to use quantitative approaches to solve important problems as well as develop marketable analytical skills. This course is designed to achieve three objectives: (1) introduce students to research and quantitative analysis in political science, (2) produce critical consumers of quantitative analysis used in political and policy-oriented reporting, and (3) give students the ability to answer questions of social scientific importance using data. Over the course of the semester, students learn and become proficient in the statistical programming language R. 
     - [Syllabus](/files/POLI281_Syllabus_copy.pdf)
-    - [Example Slides](/files/RegressionPart1.pdf)
-    - [Critical Analysis Project Overview](/files/281_Final_Project.pdf)
         
-- Poli 100: Introduction to American Politics (Spring 2019)
+- POLI 100: Introduction to American Politics (Spring 2019)
     - In order to fully understand our complicated and contentious political climate and events, it is necessary to understand how the American political system works. We will work toward that understanding together by exploring the system from two angles: *institutions*, or the structure of the United States government; and *behavior*, or the actions and motivations of political actors, both politicians and the general public. We will discuss what problems the government and political system seek to solve and why they sometimes succeed and sometimes fail to solve those problems.
     - [Syllabus](/files/POLI100_Syllabus_copy.pdf)
-    - Example Slides
-        - [Federalism](/files/Federalism.pdf); 
-        [Presidency](/files/Presidency.pdf); [Congressional Polarization](/files/Polarization.pdf)
 
 ### Odum Institute for Research in Social Sciences at UNC
 - Collecting and Analysing Text Using R (Spring 2019; Fall 2019; Spring 2020; Fall 2020, Spring 2021)
     - This workshop will introduce participants to the basics of text analysis in R. Text analysis is a promising new approach that uses machine learning to discover patterns, trends, and other information by using text as data. For example, in measuring misinformation on social media to study how candidates have changed their campaign rhetoric over time, text analysis has an incredibly broad scope of applications. In this two day, five hour course, participants will develop the skills and understanding necessary to collect text data from a variety of sources, including websites and APIs. Participants will gain practical skills for completing their own analyses using text as data. Basic to intermediate knowledge of programming in R is required; no background in statistics is necessary.
-    - [Text Collecting and Processing](/files/Text_Analysis_Day1.pdf)
-    - [Sentiment Analysis](/files/Text_Analysis_Day2.pdf)
