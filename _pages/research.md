@@ -6,7 +6,7 @@ author_profile: true
 
 ### Peer-Reviewed Publications
 
-- **Rachel Porter** and Sarah A. Treul. "Evaluating (In)Experience in Congressional Elections." Conditionally Accepted at the **American Journal of Political Science.** [[Paper]](/files/porter_treul_wils.pdf)
+- **Rachel Porter** and Sarah A. Treul. "Evaluating (In)Experience in Congressional Elections." Conditionally Accepted at the **American Journal of Political Science.** [[Paper]](/files/porter_treul_ajps.pdf)
 
 - **Rachel Porter**, Sarah A. Treul, and Maura McDonald. "Descriptive Candidacies & Position-Taking in Campaigns for the U.S. House of Representatives." _The Journal of Politics._ Forthcoming. [[Paper]](/files/dialogue_jop.pdf) [[Replication Code]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/S6ZMEN)
 
