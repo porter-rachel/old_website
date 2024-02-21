@@ -6,9 +6,9 @@ author_profile: true
 
 ### Peer-Reviewed Publications
 
-- **Rachel Porter** and Sarah A. Treul. "Evaluating (In)Experience in Congressional Elections." Conditionally Accepted at the **American Journal of Political Science.** [[Paper]](/files/porter_treul_ajps.pdf)
+- **Rachel Porter** and Sarah A. Treul. "Evaluating (In)Experience in Congressional Elections." Conditionally Accepted at the **American Journal of Political Science.** [[Paper]](/files/porter_treul_ajps.pdf)[[Replication Code]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CYFIDH)
 
-- **Rachel Porter**, Sarah A. Treul, and Maura McDonald. "Descriptive Candidacies & Position-Taking in Campaigns for the U.S. House of Representatives." _The Journal of Politics._ Forthcoming. [[Paper]](/files/dialogue_jop.pdf) [[Replication Code]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/S6ZMEN)
+- **Rachel Porter**, Sarah A. Treul, and Maura McDonald. "Descriptive Candidacies & Position-Taking in Campaigns for the U.S. House of Representatives." _The Journal of Politics._ Forthcoming. [[Paper]][(/files/dialogue_jop.pdf)](https://www.journals.uchicago.edu/doi/10.1086/726928) [[Replication Code]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/S6ZMEN)
 
 - **Rachel Porter** and Tyler Steelman. 2023. "No Experience Required: Early Donations and Amateur Candidate Success in Primary Elections." _Legislative Studies Quarterly_, 48(2): 455-466 [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/lsq.12396)
 
@@ -18,7 +18,9 @@ author_profile: true
 
 ### Working Papers
 
-- "Conceptualizing and Measuring Early Campaign Fundraising in Congressional Elections" *with Colin R. Case.* Under Review. [[Paper]](/files/case_porter_money.pdf)
+- "Conceptualizing and Measuring Early Campaign Fundraising in Congressional Elections" *with Colin R. Case.* R&R at PSRM. [[Paper]](/files/case_porter_money.pdf)
+
+- "Conceptualizing and Measuring Early Campaign Fundraising in Congressional Elections" *with Ben Francis and Bill Kakenmaster.* [[Paper]](/files/climate_embeddings.pdf)
 
 - "Policy Facts or Partisan Friction?: Explaining Political Communication on America's Opioid Epidemic" [[Paper]](/files/porter_opioids.pdf)
 
