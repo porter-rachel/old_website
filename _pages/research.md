@@ -18,6 +18,8 @@ author_profile: true
 
 ### Working Papers
 
+- "Candidate Positioning & Issue Polarization in Congressional Elections" *with Colin R. Case* (Paper Available Upon Request)
+
 - "Conceptualizing and Measuring Early Campaign Fundraising in Congressional Elections" *with Colin R. Case.* R&R at PSRM. [[Paper]](/files/case_porter_money.pdf)
 
 - "Intra-Party Variation on Climate Change Positions in U.S. House Elections" *with Ben Francis and Bill Kakenmaster.* [[Paper]](/files/climate_embeddings.pdf)
