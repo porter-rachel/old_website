@@ -22,9 +22,9 @@ author_profile: true
 
 - "Conceptualizing and Measuring Early Campaign Fundraising in Congressional Elections" *with Colin R. Case.* R&R at PSRM. [[Paper]](/files/case_porter_money.pdf)
 
-- "Congressional Campaign Style and Bipartisan Tendencies", *with Colin R. Case and Emily Cottle Ommundsen* (Paper Available Upon Request)
+- "Congressional Campaign Style and Bipartisan Tendencies" *with Colin R. Case and Emily Cottle Ommundsen* (Paper Available Upon Request)
 
-- "Estimating the Ideological Extremity of Primary Electorates." [[Paper]](/files/estimating_ideology.pdf) [[Supplemental Information]](/files/primaries_appendix.pdf)
+- "Estimating the Ideological Extremity of Primary Electorates" [[Paper]](/files/estimating_ideology.pdf) [[Supplemental Information]](/files/primaries_appendix.pdf)
 
 - "Intra-Party Variation on Climate Change Positions in U.S. House Elections" *with Ben Francis and Bill Kakenmaster.* [[Paper]](/files/climate_embeddings.pdf)
 
