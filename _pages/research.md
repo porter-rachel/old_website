@@ -22,11 +22,13 @@ author_profile: true
 
 - "Conceptualizing and Measuring Early Campaign Fundraising in Congressional Elections" *with Colin R. Case.* R&R at PSRM. [[Paper]](/files/case_porter_money.pdf)
 
+- "Estimating the Ideological Extremity of Primary Electorates." [[Paper]](/files/estimating_ideology.pdf) [[Supplemental Information]](/files/primaries_appendix.pdf)
+
 - "Intra-Party Variation on Climate Change Positions in U.S. House Elections" *with Ben Francis and Bill Kakenmaster.* [[Paper]](/files/climate_embeddings.pdf)
 
 - "Policy Facts or Partisan Friction?: Explaining Political Communication on America's Opioid Epidemic" [[Paper]](/files/porter_opioids.pdf)
 
-- "Estimating the Ideological Extremity of Primary Electorates." [[Paper]](/files/estimating_ideology.pdf) [[Supplemental Information]](/files/primaries_appendix.pdf)
+- "The Impact of Small Dollar Donations and Donors in Congressional Campaigns" *with Maggie MacDonald and Megan Brown* (Paper Available Upon Request)
 
 ### Book Chapters 
 
