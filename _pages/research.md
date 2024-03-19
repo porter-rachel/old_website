@@ -24,7 +24,7 @@ author_profile: true
 
 - "Policy Facts or Partisan Friction?: Explaining Political Communication on America's Opioid Epidemic" [[Paper]](/files/porter_opioids.pdf)
 
-- "Estimating the Ideological Extremity of Primary Electorates." [[Paper]](/files/estimating_ideology.pdf), [[Supplemental Information]](/files/primaries_appendix.pdf)
+- "Estimating the Ideological Extremity of Primary Electorates." [[Paper]](/files/estimating_ideology.pdf) [[Supplemental Information]](/files/primaries_appendix.pdf)
 
 ### Book Chapters 
 
