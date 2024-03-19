@@ -18,11 +18,11 @@ author_profile: true
 
 ### Working Papers
 
-- "Candidate Positioning & Issue Polarization in Congressional Elections" *with Colin R. Case* (Paper Available Upon Request)
+- "Candidate Positioning & Issue Polarization in Congressional Elections" *with Colin R. Case* (Available Upon Request)
 
 - "Conceptualizing and Measuring Early Campaign Fundraising in Congressional Elections" *with Colin R. Case.* R&R at PSRM. [[Paper]](/files/case_porter_money.pdf)
 
-- "Congressional Campaign Style and Bipartisan Tendencies" *with Colin R. Case and Emily Cottle Ommundsen* (Paper Available Upon Request)
+- "Congressional Campaign Style and Bipartisan Tendencies" *with Colin R. Case and Emily Cottle Ommundsen* (Available Upon Request)
 
 - "Estimating the Ideological Extremity of Primary Electorates" [[Paper]](/files/estimating_ideology.pdf) [[Supplemental Information]](/files/primaries_appendix.pdf)
 
@@ -30,7 +30,7 @@ author_profile: true
 
 - "Policy Facts or Partisan Friction?: Explaining Political Communication on America's Opioid Epidemic" [[Paper]](/files/porter_opioids.pdf)
 
-- "The Impact of Small Dollar Donations and Donors in Congressional Campaigns" *with Maggie MacDonald and Megan Brown* (Paper Available Upon Request)
+- "The Impact of Small Dollar Donations and Donors in Congressional Campaigns" *with Maggie MacDonald and Megan Brown* (Available Upon Request)
 
 ### Book Chapters 
 
