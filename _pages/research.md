@@ -30,7 +30,7 @@ author_profile: true
 
 - "Policy Facts or Partisan Friction?: Explaining Political Communication on America's Opioid Epidemic" [[Paper]](/files/porter_opioids.pdf)
 
-- "The Impact of Small Dollar Donations and Donors in Congressional Campaigns" *with Maggie MacDonald and Megan Brown* (Available Upon Request)
+- "Do Small Donors Make a Big Difference in U.S. Elections?: Evidence from 50 Million Campaign Contributions" *with Maggie MacDonald and Megan Brown* (Available Upon Request)
 
 ### Book Chapters 
 
